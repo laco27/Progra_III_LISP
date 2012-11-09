@@ -1,0 +1,60 @@
+Artista: Poison
+Titulo: Every Rose Has Its Thorn
+Genero: Other
+Album: Open Up and Say...Ahh!
+siguiente
+Artista: Guns N' Roses
+Titulo: Civil War
+Genero: Other
+Album: Greatest Hits
+siguiente
+Artista: Def Leppard
+Titulo: Animal
+Genero: Other
+Album: Hysteria
+siguiente
+Artista: Def Leppard
+Titulo: Pour Some Sugar On Me
+Genero: Other
+Album: Hysteria
+siguiente
+Artista: Unknown Artist
+Titulo: Cautiva de mar
+Genero: Rock
+Album: Pastillas antidepresivas, religiones y demás.. para el alma
+siguiente
+Artista: Nickelback
+Titulo: Far Away
+Genero: Other
+Album: All The Right Reasons
+siguiente
+Artista: Nickelback
+Titulo: Next Contestant
+Genero: Other
+Album: All The Right Reasons
+siguiente
+Artista: Nickelback
+Titulo: Animals
+Genero: Other
+Album: All The Right Reasons
+siguiente
+Artista: Guns N' Roses
+Titulo: November Rain
+Genero: Other
+Album: Use Your Illusion I
+siguiente
+Artista: Def Leppard
+Titulo: Women
+Genero: Other
+Album: Hysteria
+siguiente
+Artista: Nickelback
+Titulo: Savin' Me
+Genero: Other
+Album: All The Right Reasons
+siguiente
+Artista: guns and rose
+Titulo: Don't Cry
+Genero: Rock
+Album: Guns n' Roses
+siguiente
